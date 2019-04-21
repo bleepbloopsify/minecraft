@@ -13,7 +13,7 @@ services:
       SERVER_PORT: 25565 # default
       SERVER_NAME: Memes
       MAX_PLAYERS: 20
-      SNOOPER_ENABLED: false
+      SNOOPER_ENABLED: "False"
       
     image: itzg/minecraft-server
 
